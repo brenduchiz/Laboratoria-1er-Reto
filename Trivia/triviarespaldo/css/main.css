@@ -1,0 +1,125 @@
+html{
+box-sizing: border-box;
+background-color:white;
+font-family: 'Indie Flower', cursive;
+}
+*
+{
+margin: 0;
+}
+
+header  {
+box-sizing: border-box;
+height: 100px;
+background-color:#F2F2F2;
+padding: 20px;
+
+
+}
+#titulo1
+{
+font-size: 40px;
+
+}
+#titulo2
+{
+
+font-size: 30px;
+
+}
+
+#usuario
+{
+font-size: 25px;
+}
+
+/*navegation*/
+nav{
+background-color: white;
+
+
+}
+
+.table1{
+border-collapse: collapse;
+}
+.table2 {
+border: 1px solid black;
+font-size: 25px;
+}
+.table3 {
+ border: 1px solid black;
+   font-size: 25px;
+   background-color: #F2F2F2;
+}
+
+/*Cuerpo*/
+
+.cuerpo
+{
+background-color: white;
+
+}
+
+h1{
+margin: 0;
+padding: 10px 10px;
+font-size: 50px;
+background-color: white
+}
+
+
+body{
+background-color: white;
+
+}
+
+.table_resultados
+{
+padding-left:400px;
+
+}
+
+#tableok{
+font-size: 30px;
+
+}
+
+#tablewrong{
+font-size: 30px;
+
+}
+
+
+#tableFirstRight{
+font-size: 25px;
+
+}
+
+#tablefirstWrong{
+font-size: 25px;
+
+}
+
+#tableSecondRight{
+font-size: 25px;
+
+}
+
+#tableSecondWrong{
+font-size: 25px;
+
+}
+
+#tableThirdRight{
+font-size: 25px;
+
+}
+
+#tableThirdWrong{
+font-size: 25px;
+
+  }
+
+
+/*body*/
